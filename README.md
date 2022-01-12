@@ -10,7 +10,7 @@ Apaixonado por programação e tecnologia! 💻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pereira-18b918209/)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/joaoPereira7717)
 
-![joaopereira7717 GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopereira7717&show_icons=true&theme=merko )
+![joaopereira7717 GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopereira7717&show_icons=true&theme=radical )
 
 ## Skills
 
@@ -26,4 +26,4 @@ Apaixonado por programação e tecnologia! 💻
     <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAlmeida2555&layout=compact)](https://github.com/LuisAlmeida2555/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopereira7717&layout=compact)](https://github.com/joaopereira7717/github-readme-stats)
