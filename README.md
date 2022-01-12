@@ -12,6 +12,13 @@ Apaixonado por programação e tecnologia! 💻
 
 ![joaopereira7717 GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopereira7717&show_icons=true&theme=radical)
 
+<p align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html?user=joaopereira7717&theme=bear&showIcons=true">
+    <img  alt="João Pereira's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/joaopereira7717?theme=bear" />
+  </a>
+  
+</p>
+
 ## Skills
 
 <div style="display: inline_bolck">
