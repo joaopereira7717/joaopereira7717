@@ -4,6 +4,8 @@ Apaixonado por programação e tecnologia! 💻
 
 "Não é a linguagem de programação que define o programador, mas sim sua lógica."
 
+
+<img align="center" alt="html5" src="https://aleen42.github.io/badges/src/bmw.svg"/>
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaopereira7717/)
