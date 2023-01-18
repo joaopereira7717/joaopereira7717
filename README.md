@@ -37,4 +37,4 @@ Apaixonado por programação e tecnologia! 💻
     
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopereira7717&layout=compact)](https://github.com/joaopereira7717/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopereira7717&layout=compact)]
