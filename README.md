@@ -6,6 +6,7 @@ Apaixonado por programação e tecnologia! 💻
 
 
 <img align="center" alt="html5" src="https://aleen42.github.io/badges/src/bmw.svg"/>
+<img align="center" all="html5" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaopereira7717/)
