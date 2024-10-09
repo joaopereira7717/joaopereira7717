@@ -2,7 +2,7 @@
 
 Apaixonado por programação e tecnologia! 💻
 
-"Não é a linguagem de programação que define o programador, mas sim sua lógica."
+"Não é a linguagem de programação que define o programador, mas sim a sua lógica."
 
 
 <img align="center" alt="html5" src="https://aleen42.github.io/badges/src/bmw.svg"/>
